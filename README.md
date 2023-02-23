@@ -1,4 +1,4 @@
-[![WakeUp Logo](img/Logo.png)](https://s4g.itch.io/wake-up)
+[![WakeUp Logo](Img/Logo.png)](https://s4g.itch.io/wake-up)
 
 # WakeUp (Student Project)
 
